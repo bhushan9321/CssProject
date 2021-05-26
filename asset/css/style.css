@@ -1,0 +1,265 @@
+
+.cname
+{
+			background-color:rgb(14, 13, 12);
+			height:100px;
+			text-align:center;
+			padding-top: 60px;
+			font-size:40px;
+			color:white;	
+			border-radius: 10px;
+			box-shadow:0px 0px 15px #e7b247;		
+}
+
+
+.a
+{
+	color:rgb(255, 255, 255);
+	text-decoration:bold;
+	display:block;
+	margin-top:5px;
+	border-radius: 10px;
+	box-shadow:0px 0px 15px #3db395;		
+}
+
+.border{
+	border-radius: 10px;
+}
+.menu
+{
+	background-color:#070607;
+	height:40px;
+	text-align:center;
+	padding-top:18px;
+	color:black;
+	border-radius: 10px;
+	box-shadow:0px 0px 15px #e7b247;
+}
+
+.menu a
+{
+	color:rgb(255, 255, 255);
+	text-decoration:bold;
+	display:block;
+	margin-top:3px;
+	box-shadow:0px 0px 15px #3db395;
+}
+
+.banner
+{
+	background-image:url('../photos/bg-services-repair.jpg' );
+	height: 250px;
+    background-repeat: no-repeat;
+    background-size: 1250px 500px;
+    margin-top:20px;
+    background-attachment: fixed;
+	box-shadow:0px 0px 15px #e7b247;
+}
+
+.banner_about
+{
+	background-image:url('../photos/bg-about-us.jpg' );
+	height: 250px;
+    background-repeat: no-repeat;
+    background-size: 1250px 500px;
+    margin-top:20px;
+    background-attachment: fixed;
+	box-shadow:0px 0px 15px #e7b247;
+}
+
+
+.banner_services
+{
+	background-image:url('../photos/bg-services-repair.jpg' );
+	height: 250px;
+    background-repeat: no-repeat;
+    background-size: 1250px 500px;
+    margin-top:20px;
+    background-attachment: fixed;
+	box-shadow:0px 0px 15px #e7b247;
+}
+
+
+
+.About
+{
+	background-color:rgb(31, 28, 28);
+	height:40px;
+	color:rgb(255, 255, 255);
+	text-align:center;
+	padding-top:18px;
+	margin-top:5px;
+	box-shadow:0px 0px 15px #e7b247; 
+}
+.about_content	
+{
+	color:rgb(0, 0, 0);
+}	
+.p
+{
+ text-align:justify;
+}
+
+.section
+{
+	background-color:black;
+	height:60px;
+
+	color:rgb(255, 255, 255);
+	text-align:center;
+	padding-top:18px;
+	margin-top:5px;
+	box-shadow:0px 0px 15px #e7b247;
+	
+}
+
+.shadow{
+	box-shadow:0px 0px 15px #e7b247;
+}
+
+.menu:hover {
+	background-color: #002b1e!important;
+  }
+
+  .menur:hover {
+	background-color: #002b1e!important;
+  }
+  .cname:hover {
+	background-color: #002b1e!important;
+  }
+
+  .center {
+	display: block;
+	margin-top:15px ;
+	margin-left:auto;
+	margin-right: auto;
+	
+  }
+
+  .Textcenter {
+	text-align: center;
+  }
+
+
+.connect{
+	margin-top:50% ;
+	margin-left:auto;
+	margin-right: auto;
+	        
+}
+
+.connect {
+	opacity: 0.6; 
+  cursor: pointer; 
+}
+
+.connect:hover {
+	opacity: 1;
+}
+
+.margin{
+	margin-top: 100px;
+}
+
+.text{
+	background-color:rgb(0, 0, 0);
+	height:280px;
+	color:rgb(10, 9, 9);
+	padding-top:5px;
+	margin-top:5px;
+	box-shadow:0px 0px 15px #e7b247;
+}
+
+.pdtext{
+	background-color:rgb(0, 0, 0);
+	height:250px;
+	color:rgb(255, 255, 255);
+	padding-top:5px;
+	margin-top:5px;
+	box-shadow:0px 0px 15px #e7b247;
+}
+
+.mr{
+	margin: 25px 50px;
+	color:rgb(0, 0, 0);
+	background-color:rgb(218, 228, 231);
+}
+
+
+.Mission{
+	background-color:rgb(31, 28, 28);
+	height:40px;
+	color:rgb(255, 255, 255);
+	text-align:center;
+	padding-top:18px;
+	margin-top:5px;
+	box-shadow:0px 0px 15px #e7b247; 
+}
+
+.pdimage{
+	background-color:#ffffff;
+	margin-top:8px;
+	height:590px;
+	text-align:center;
+	padding-top:18px;
+	color:black;
+	border-radius: 10px;
+	box-shadow:0px 0px 15px #e7b247;
+}
+
+.menur{
+	background-color:#070607;
+	height:40px;
+	text-align:center;
+	margin-top:8px;
+	padding-top:18px;
+	color:black;
+	border-radius: 10px;
+	box-shadow:0px 0px 15px #e7b247;
+}
+
+
+
+.form-control {
+    border: none !important;
+    border-bottom: 1px solid #cc0c0c !important;
+    color: #000000;
+    margin-bottom: 30px;
+    height: 50px;
+    font-weight: 300;
+    font-size: 12px;
+    padding: 0 20px;
+    letter-spacing: 2px;
+    line-height: 80px;
+}
+
+.conimage{
+	background-color:#ffffff;
+
+	height:450px;
+	text-align:center;
+	padding-top:0px;
+	color:black;
+	border-radius: 10px;
+	box-shadow:0px 0px 15px #e7b247;
+	background-color:rgb(255, 255, 255);
+}
+
+
+.col1
+{
+	position: relative;
+    min-height: 5px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.sendbackground
+{
+	background: #ffffff;
+
+}
+
+.font{
+	font-size: 18px;
+}
